@@ -1,24 +1,28 @@
 * {
-    font-family: sans-serif;
+    box-sizing: border-box;
 }
 
-h1 {
-    color: cadetblue;
-    font-family: sans-serif;
+body {
+    margin: 0;
 }
 
-code {
-    color: red;
-    font-family: monospace;
-}
-
-.second-li code {
-    color: green;
-}
-
-ol li {
-    background-color: black;
+.first-h1 {
+    background-color: rgb(111, 223, 186);
     color: white;
+    width: 100%;
+    height: 528px;
+    padding: 20px;
+}
+
+.second-h1 {
+    color: rgb(131, 185, 50);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.third-h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
 }
 
 
