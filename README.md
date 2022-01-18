@@ -1,2 +1,2 @@
 # css-course
-Maximilian Schwarzmüller course
+The Complete guide 2022 by Maximilian Schwarzmüller course
