@@ -8,3 +8,8 @@ Seção 2:
 
 Seção 3:
 
+- The Box Model
+- Width & Height
+- Display property
+- Pseudo classes & elements
+- 
